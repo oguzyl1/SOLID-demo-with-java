@@ -24,11 +24,11 @@ Bu prensipler, yazılımın sürdürülebilirliğini, okunabilirliğini ve yenid
 
 | Prensip | Açıklama | Klasör |
 |--------|----------|--------|
-| ✅ SRP | Bir sınıfın yalnızca **tek bir sorumluluğu** olmalıdır. | [`single_responsibility/`](./single_responsibility) |
-| ✅ OCP | Sınıflar **geliştirmeye açık**, ancak **değişikliğe kapalı** olmalıdır. | [`open_closed/`](./open_closed) |
-| ✅ LSP | Bir alt sınıf, üst sınıf yerine **sorunsuz** geçebilmeli. | [`liskov/`](./liskov) |
-| ✅ ISP | Sınıflar, **ihtiyaç duymadıkları metodlara bağımlı kalmamalıdır**. | [`interface_segregation/`](./interface_segregation) |
-| ✅ DIP | Sınıflar, **somut sınıflara değil, soyutlamalara bağımlı** olmalıdır. | [`dependency_inversion/`](./dependency_inversion) |
+| ✅ SRP | Bir sınıfın yalnızca **tek bir sorumluluğu** olmalıdır. | [`single_responsibility/`](src/single_responsibility) |
+| ✅ OCP | Sınıflar **geliştirmeye açık**, ancak **değişikliğe kapalı** olmalıdır. | [`open_closed/`](src/open_closed) |
+| ✅ LSP | Bir alt sınıf, üst sınıf yerine **sorunsuz** geçebilmeli. | [`liskov/`](src/liskov) |
+| ✅ ISP | Sınıflar, **ihtiyaç duymadıkları metodlara bağımlı kalmamalıdır**. | [`interface_segregation/`](src/interface_segregation) |
+| ✅ DIP | Sınıflar, **somut sınıflara değil, soyutlamalara bağımlı** olmalıdır. | [`dependency_inversion/`](src/dependency_inversion) |
 
 ---
 
